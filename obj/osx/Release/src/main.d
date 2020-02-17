@@ -1,5 +1,5 @@
 obj/osx/Release/src/main.o: \
-  /Library/Developer/of_v0.11.0_osx_release/apps/vscode_oF/Week3Homework2/src/main.cpp \
+  /Library/Developer/of_v0.11.0_osx_release/apps/vscode_oF/Week3_V2/src/main.cpp \
   /Library/Developer/of_v0.11.0_osx_release/libs/openFrameworks/ofMain.h \
   /Library/Developer/of_v0.11.0_osx_release/libs/openFrameworks/utils/ofConstants.h \
   /Library/Developer/of_v0.11.0_osx_release/libs/glew/include/GL/glew.h \
@@ -862,8 +862,8 @@ obj/osx/Release/src/main.o: \
   /Library/Developer/of_v0.11.0_osx_release/libs/openFrameworks/3d/of3dUtils.h \
   /Library/Developer/of_v0.11.0_osx_release/libs/openFrameworks/3d/ofCamera.h \
   /Library/Developer/of_v0.11.0_osx_release/libs/openFrameworks/3d/ofEasyCam.h \
-  /Library/Developer/of_v0.11.0_osx_release/apps/vscode_oF/Week3Homework2/src/ofApp.h \
-  /Library/Developer/of_v0.11.0_osx_release/apps/vscode_oF/Week3Homework2/src/ImageClass.h
+  /Library/Developer/of_v0.11.0_osx_release/apps/vscode_oF/Week3_V2/src/ofApp.h \
+  /Library/Developer/of_v0.11.0_osx_release/apps/vscode_oF/Week3_V2/src/ImageClass.h
 
 /Library/Developer/of_v0.11.0_osx_release/libs/openFrameworks/ofMain.h:
 
@@ -2589,6 +2589,6 @@ obj/osx/Release/src/main.o: \
 
 /Library/Developer/of_v0.11.0_osx_release/libs/openFrameworks/3d/ofEasyCam.h:
 
-/Library/Developer/of_v0.11.0_osx_release/apps/vscode_oF/Week3Homework2/src/ofApp.h:
+/Library/Developer/of_v0.11.0_osx_release/apps/vscode_oF/Week3_V2/src/ofApp.h:
 
-/Library/Developer/of_v0.11.0_osx_release/apps/vscode_oF/Week3Homework2/src/ImageClass.h:
+/Library/Developer/of_v0.11.0_osx_release/apps/vscode_oF/Week3_V2/src/ImageClass.h:
